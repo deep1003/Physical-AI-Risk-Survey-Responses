@@ -1,14 +1,5 @@
 {
   "schema_version": 1,
   "risk_id": "G_INT_ALLOC_001",
-  "comments": [
-    {
-      "id": "2ab92a49-1781-4bdc-b67f-37153ea0c987",
-      "risk_id": "G_INT_ALLOC_001",
-      "body": "L4 댓글 기능 검증용 임시 글입니다. 확인 후 제거합니다.",
-      "edit_hash": "18c75d2c33c9ed52c84b6439449a738749d13edad819b7daa5cf8e14b48f19a2",
-      "created_at": "2026-11-09T14:07:49.201Z",
-      "updated_at": "2026-11-09T14:07:49.201Z"
-    }
-  ]
+  "comments": []
 }
